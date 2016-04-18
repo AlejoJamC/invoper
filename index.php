@@ -318,210 +318,197 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
-                        <h2>Project Title</h2>
+                        <h2>Solucion ejercicio #11</h2>
                         <hr class="star-primary">
-                        <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
-                        <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                        <ul class="list-inline item-details">
-                            <li>Client:
-                                <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                </strong>
-                            </li>
-                            <li>Date:
-                                <strong><a href="http://startbootstrap.com">April 2014</a>
-                                </strong>
-                            </li>
-                            <li>Service:
-                                <strong><a href="http://startbootstrap.com">Web Development</a>
-                                </strong>
-                            </li>
-                        </ul>
-                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <h2>Project Title</h2>
-                        <hr class="star-primary">
-                        <img src="img/portfolio/cake.png" class="img-responsive img-centered" alt="">
-                        <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                        <ul class="list-inline item-details">
-                            <li>Client:
-                                <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                </strong>
-                            </li>
-                            <li>Date:
-                                <strong><a href="http://startbootstrap.com">April 2014</a>
-                                </strong>
-                            </li>
-                            <li>Service:
-                                <strong><a href="http://startbootstrap.com">Web Development</a>
-                                </strong>
-                            </li>
-                        </ul>
-                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <h2>Project Title</h2>
-                        <hr class="star-primary">
-                        <img src="img/portfolio/circus.png" class="img-responsive img-centered" alt="">
-                        <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                        <ul class="list-inline item-details">
-                            <li>Client:
-                                <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                </strong>
-                            </li>
-                            <li>Date:
-                                <strong><a href="http://startbootstrap.com">April 2014</a>
-                                </strong>
-                            </li>
-                            <li>Service:
-                                <strong><a href="http://startbootstrap.com">Web Development</a>
-                                </strong>
-                            </li>
-                        </ul>
-                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <h2>Project Title</h2>
-                        <hr class="star-primary">
-                        <img src="img/portfolio/game.png" class="img-responsive img-centered" alt="">
-                        <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                        <ul class="list-inline item-details">
-                            <li>Client:
-                                <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                </strong>
-                            </li>
-                            <li>Date:
-                                <strong><a href="http://startbootstrap.com">April 2014</a>
-                                </strong>
-                            </li>
-                            <li>Service:
-                                <strong><a href="http://startbootstrap.com">Web Development</a>
-                                </strong>
-                            </li>
-                        </ul>
-                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <h2>Project Title</h2>
-                        <hr class="star-primary">
-                        <img src="img/portfolio/safe.png" class="img-responsive img-centered" alt="">
-                        <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                        <ul class="list-inline item-details">
-                            <li>Client:
-                                <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                </strong>
-                            </li>
-                            <li>Date:
-                                <strong><a href="http://startbootstrap.com">April 2014</a>
-                                </strong>
-                            </li>
-                            <li>Service:
-                                <strong><a href="http://startbootstrap.com">Web Development</a>
-                                </strong>
-                            </li>
-                        </ul>
-                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <h2>Project Title</h2>
-                        <hr class="star-primary">
-                        <img src="img/portfolio/submarine.png" class="img-responsive img-centered" alt="">
-                        <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                        <ul class="list-inline item-details">
-                            <li>Client:
-                                <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                </strong>
-                            </li>
-                            <li>Date:
-                                <strong><a href="http://startbootstrap.com">April 2014</a>
-                                </strong>
-                            </li>
-                            <li>Service:
-                                <strong><a href="http://startbootstrap.com">Web Development</a>
-                                </strong>
-                            </li>
-                        </ul>
-                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        <p>
+                            - Inecuaciones iniciales -<br>
+                            Función objetivo ( $F. O.$ ):<br>
+                            $MIN. Z= 43x_1 + 31x_2 + 47x_3 + 37x_4$<br>
+                            <br>
+                            Restricciones:<br>
+                            $0.8x_1 + 0.3x_2 + 0.7x_3 + 0.4x_4 \geqslant 0.6$<br>
+                            $0.1x_1 + 0.4x_2 + 0.2x_3 + 0.1x_4 \leqslant$<br>
+                            $x_1 + x_2 + x_3 + x_4 \leqslant 1$<br>
+                            $x_1, x_2, x_3, x_4 \geqslant 0$<br>
+                        </p>
+                        <p>
+                            - Las inecuaciones son tratadas como igualdades -<br>
+                            LaFunción objetivo es igualada a 0 (cero):<br>
+                            $F. O. \Rrightarrow$ $ Z - 43x_1 - 31x_2 - 47x_3 - 37x_4 = 0$<br>
+                            <br>
+                            A las restricciones se le agregar varaibles de holgura:<br>
+                            $0.8x_1 + 0.3x_2 + 0.7x_3 + 0.4x_4 + S_1 = 0.6$<br>
+                            $0.1x_1 + 0.4x_2 + 0.2x_3 + 0.1x_4 + S_2 = 0.3$<br>
+                            $x_1 + x_2 + x_3 + x_4 + S_3 = 1$<br>
+                        </p>
+                        <p>
+                            - Primer proceso Simplex -<br>
+                        </p>
+                        <table class="table table-bordered table-hover">
+                            <thead>
+                            <tr>
+                                <th>$Variables$</th>
+                                <th>$Z$</th>
+                                <th>$X_1$</th>
+                                <th>$X_2$</th>
+                                <th>$X_3$</th>
+                                <th>$X_4$</th>
+                                <th>$S_1$</th>
+                                <th>$S_2$</th>
+                                <th>$S_3$</th>
+                                <th>$b_i$</th>
+                                <th>$b_i/Y_ij$</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <th>$Z$</th>
+                                <th>1</th>
+                                <th>-43</th>
+                                <th>-31</th>
+                                <th>-47</th>
+                                <th>-37</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>-</th>
+                            </tr>
+                            <tr>
+                                <th>$S_1$</th>
+                                <th>0</th>
+                                <th>0.8</th>
+                                <th>0.3</th>
+                                <th>0.7</th>
+                                <th>0.4</th>
+                                <th>1</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>0.6</th>
+                                <th>0.86</th>
+                            </tr>
+                            <tr>
+                                <th>$S_2$</th>
+                                <th>0</th>
+                                <th>0.1</th>
+                                <th>0.4</th>
+                                <th>0.2</th>
+                                <th>0.1</th>
+                                <th>0</th>
+                                <th>1</th>
+                                <th>0</th>
+                                <th>0.3</th>
+                                <th>1.5</th>
+                            </tr>
+                            <tr>
+                                <th>$S_3$</th>
+                                <th>0</th>
+                                <th>1</th>
+                                <th>1</th>
+                                <th>1</th>
+                                <th>1</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>1</th>
+                                <th>1</th>
+                            </tr
+                            </tbody>
+                        </table>
+                        <p>
+                            - Operaciones a realizar con cada valor segun su fila -<br>
+                            $Z + 47$<br>
+                            $S_1 + 0.3$ ó $S_1/0.7$<br>
+                            $S_2 - 0.2$<br>
+                            $S_3 - 1$<br>
+                        </p>
+                        <table class="table table-bordered table-hover">
+                            <thead>
+                            <tr>
+                                <th>$Variables$</th>
+                                <th>$Z$</th>
+                                <th>$X_1$</th>
+                                <th>$X_2$</th>
+                                <th>$X_3$</th>
+                                <th>$X_4$</th>
+                                <th>$S_1$</th>
+                                <th>$S_2$</th>
+                                <th>$S_3$</th>
+                                <th>$b_i$</th>
+                                <th>$b_i/Y_ij$</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <th>$Z$</th>
+                                <th>1</th>
+                                <th>-43</th>
+                                <th>-31</th>
+                                <th>-47</th>
+                                <th>-37</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>-</th>
+                            </tr>
+                            <tr>
+                                <th>$S_1$</th>
+                                <th>0</th>
+                                <th>0.8</th>
+                                <th>0.3</th>
+                                <th>0.7</th>
+                                <th>0.4</th>
+                                <th>1</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>0.6</th>
+                                <th>0.86</th>
+                            </tr>
+                            <tr>
+                                <th>$S_2$</th>
+                                <th>0</th>
+                                <th>0.1</th>
+                                <th>0.4</th>
+                                <th>0.2</th>
+                                <th>0.1</th>
+                                <th>0</th>
+                                <th>1</th>
+                                <th>0</th>
+                                <th>0.3</th>
+                                <th>1.5</th>
+                            </tr>
+                            <tr>
+                                <th>$S_3$</th>
+                                <th>0</th>
+                                <th>1</th>
+                                <th>1</th>
+                                <th>1</th>
+                                <th>1</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>0</th>
+                                <th>1</th>
+                                <th>1</th>
+                            </tr
+                            </tbody>
+                        </table>
+                        <p>
+                            - Resultado del pivote Simplex -<br>
+                        </p>
+                        <p>
+                            - Valores respuesta -<br>
+                            $Z = 47$<br>
+                            $X_1 = 0$<br>
+                            $X_2 = 0$<br>
+                            $X_3 \approx 0.9$<br>
+                            $X_4 = 0$<br>
+                            $S_1 = 0$<br>
+                            $S_2 \approx 0.1$<br>
+                            $S_3 = 0$<br>
+                        </p>
+                        <hr><br>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Salir</button>
                     </div>
                 </div>
             </div>
