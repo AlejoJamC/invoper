@@ -102,71 +102,68 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2>Portfolio</h2>
+                <h2>Problema #11</h2>
                 <hr class="star-primary">
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-4 portfolio-item">
-                <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                    <div class="caption">
-                        <div class="caption-content">
-                            <i class="fa fa-search-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img src="img/portfolio/cabin.png" class="img-responsive" alt="">
-                </a>
+            <p class="text-justify">
+                Una compañía petrolera produce un tipo de gasolina a partir de petróleo.
+                Puede comprar cuatro tipos de petróleo y dispone de los siguientes datos:
+            </p>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+                <table class="table table-bordered table-hover">
+                <thead>
+                    <tr>
+                        <th>Crudo</th>
+                        <th>A</th>
+                        <th>B</th>
+                        <th>C</th>
+                        <th>Precio (U$litro)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>1</th>
+                        <th>0.8</th>
+                        <th>0.1</th>
+                        <th>0.1</th>
+                        <th>43</th>
+                    </tr>
+                    <tr>
+                        <th>2</th>
+                        <th>0.3</th>
+                        <th>0.3</th>
+                        <th>0.4</th>
+                        <th>31</th>
+                    </tr>
+                    <tr>
+                        <th>3</th>
+                        <th>0.7</th>
+                        <th>0.1</th>
+                        <th>0.2</th>
+                        <th>47</th>
+                    </tr>
+                    <tr>
+                        <th>4</th>
+                        <th>0.4</th>
+                        <th>0.5</th>
+                        <th>0.1</th>
+                        <th>37</th>
+                    </tr>
+                </tbody>
+            </table>
             </div>
-            <div class="col-sm-4 portfolio-item">
-                <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-                    <div class="caption">
-                        <div class="caption-content">
-                            <i class="fa fa-search-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img src="img/portfolio/cake.png" class="img-responsive" alt="">
-                </a>
-            </div>
-            <div class="col-sm-4 portfolio-item">
-                <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
-                    <div class="caption">
-                        <div class="caption-content">
-                            <i class="fa fa-search-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img src="img/portfolio/circus.png" class="img-responsive" alt="">
-                </a>
-            </div>
-            <div class="col-sm-4 portfolio-item">
-                <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                    <div class="caption">
-                        <div class="caption-content">
-                            <i class="fa fa-search-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img src="img/portfolio/game.png" class="img-responsive" alt="">
-                </a>
-            </div>
-            <div class="col-sm-4 portfolio-item">
-                <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                    <div class="caption">
-                        <div class="caption-content">
-                            <i class="fa fa-search-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img src="img/portfolio/safe.png" class="img-responsive" alt="">
-                </a>
-            </div>
-            <div class="col-sm-4 portfolio-item">
-                <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                    <div class="caption">
-                        <div class="caption-content">
-                            <i class="fa fa-search-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img src="img/portfolio/submarine.png" class="img-responsive" alt="">
-                </a>
-            </div>
+        </div>
+        <div class="row">
+            <p class="text-justify">
+                A, B y C denotan los elementos a partir de los cuales se puede producir cada tipo de crudo.
+                La tabla muestra los porcentajes de cada elemento en cada crudo producido.
+                Las exigencias del mercado imponen que el crudo de base para la obtención de gasolina debe tener al menos el 60% del elemento A
+                y no más del 30% de C. Obtenga el crudo base mezclando los cuatro tipos anteriores de forma tal que el coste sea mínimo.
+            </p>
         </div>
     </div>
 </section>
@@ -176,45 +173,35 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2>About</h2>
+                <h2>Planteamiento</h2>
                 <hr class="star-light">
             </div>
         </div>
         <div class="row">
             <div class="col-lg-4 col-lg-offset-2">
-                <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+                <p>
+                    Variables de decision:<br>
+                    $X_1$ = Numero de litros de crudo tipo 1<br>
+                    $X_2$ = Numero de litros de crudo tipo 2<br>
+                    $X_3$ = Numero de litros de crudo tipo 3<br>
+                    $X_4$ = Numero de litros de crudo tipo 4<br>
+                </p>
             </div>
             <div class="col-lg-4">
-                <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
+                <p>
+                    Función objetivo ( $F. O.$ ):<br>
+                    $MIN. Z= 43x_1 + 31x_2 + 47x_3 + 37x_4$<br>
+                    <br>
+                    Restricciones:<br>
+                    $0.8x_1 + 0.3x_2 + 0.7x_3 + 0.4x_4 \geqslant 0.6$<br>
+                    $0.1x_1 + 0.4x_2 + 0.2x_3 + 0.1x_4 \leqslant 0.3$<br>
+                    $x_1 + x_2 + x_3 + x_4 \leqslant 1$<br>
+                    $x_1, x_2, x_3, x_4 \geqslant 0$<br>
+                </p>
             </div>
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <a href="#" class="btn btn-lg btn-outline">
-                    <i class="fa fa-download"></i> Download Theme
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Solving Section -->
-<section class="success" id="solving">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2>About</h2>
-                <hr class="star-light">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-4 col-lg-offset-2">
-                <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
-            </div>
-            <div class="col-lg-4">
-                <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
-            </div>
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                <a href="#" class="btn btn-lg btn-outline">
-                    <i class="fa fa-download"></i> Download Theme
+                <a href="#solvingmodal" class="btn btn-lg btn-outline portfolio-link" data-toggle="modal">
+                    <i class="fa fa-cogs"></i> Solucionar
                 </a>
             </div>
         </div>
@@ -226,39 +213,40 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2>Contact Me</h2>
+                <h2>Contacto</h2>
                 <hr class="star-primary">
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
+            <!-- Send contact email -->
+            <div class="col-lg-6">
                 <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
                 <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
                 <form name="sentMessage" id="contactForm" novalidate>
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>Name</label>
+                            <label>Nombre</label>
                             <input type="text" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>Email Address</label>
+                            <label>Email</label>
                             <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>Phone Number</label>
+                            <label>Telefono</label>
                             <input type="tel" class="form-control" placeholder="Phone Number" id="phone" required data-validation-required-message="Please enter your phone number.">
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>Message</label>
+                            <label>Mensaje</label>
                             <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
                             <p class="help-block text-danger"></p>
                         </div>
@@ -267,10 +255,31 @@
                     <div id="success"></div>
                     <div class="row">
                         <div class="form-group col-xs-12">
-                            <button type="submit" class="btn btn-success btn-lg">Send</button>
+                            <button type="submit" class="btn btn-success btn-lg">Enviar</button>
                         </div>
                     </div>
                 </form>
+            </div>
+            <!-- Contact information -->
+            <div class="col-lg-6">
+                <div>
+                    <h3>Acerce de @AlejojamC</h3>
+                    <p>Mi nombre es <a href="http://alejojamc.com/" target="_blank">Alejandro Mantilla</a> Desarrollador de software y estudiante de Ingenieria de sistemas. Fuerte interes en Back-end #NodeJS #php #dotNet y en servicos web REST.</p>
+                </div>
+                <div>
+                    <h3>Web</h3>
+                    <ul class="list-inline">
+                        <li>
+                            <a href="https://github.com/AlejoJamC" target="_blank" class="btn-social btn-outline"><i class="fa fa-github"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://co.linkedin.com/in/john-alejandro-mantilla-celis-30065662" target="_blank" class="btn-social btn-outline"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/AlejoJamC" target="_blank" class="btn-social btn-outline"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
@@ -278,45 +287,11 @@
 
 <!-- Footer -->
 <footer class="text-center">
-    <div class="footer-above">
-        <div class="container">
-            <div class="row">
-                <div class="footer-col col-md-4">
-                    <h3>Location</h3>
-                    <p>3481 Melrose Place<br>Beverly Hills, CA 90210</p>
-                </div>
-                <div class="footer-col col-md-4">
-                    <h3>Around the Web</h3>
-                    <ul class="list-inline">
-                        <li>
-                            <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-                        </li>
-                        <li>
-                            <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
-                        </li>
-                        <li>
-                            <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
-                        </li>
-                        <li>
-                            <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
-                        </li>
-                        <li>
-                            <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="footer-col col-md-4">
-                    <h3>About Freelancer</h3>
-                    <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
-                </div>
-            </div>
-        </div>
-    </div>
     <div class="footer-below">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    Copyright &copy; Your Website 2014
+                    Copyright &copy; Invoper 2016
                 </div>
             </div>
         </div>
@@ -330,8 +305,8 @@
     </a>
 </div>
 
-<!-- Portfolio Modals -->
-<div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+<!-- Solving Modals -->
+<div class="portfolio-modal modal fade" id="solvingmodal" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
         <div class="close-modal" data-dismiss="modal">
             <div class="lr">
