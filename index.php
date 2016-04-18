@@ -70,9 +70,6 @@
                     <a href="#approach">Planteamiento</a>
                 </li>
                 <li class="page-scroll">
-                    <a href="#solving">Solución</a>
-                </li>
-                <li class="page-scroll">
                     <a href="#contact">Contacto</a>
                 </li>
             </ul>
