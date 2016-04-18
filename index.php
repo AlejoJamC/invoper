@@ -83,12 +83,14 @@
 <header>
     <div class="container">
         <div class="row">
-            <div class="col-lg-12">
-                <img class="img-responsive" src="img/profile.png" alt="">
+            <div class="col-xs-4">
+                <img src="img/alejojamc.jpg" class="imgresize img-responsive img-circle" alt="Autor">
+            </div>
+            <div class="col-xs-8">
                 <div class="intro-text">
-                    <span class="name">Start Bootstrap</span>
+                    <span class="name">Investigación de Operaciones I</span>
                     <hr class="star-light">
-                    <span class="skills">Web Developer - Graphic Artist - User Experience Designer</span>
+                    <span class="skills">Solución problema propuesto #11</span>
                 </div>
             </div>
         </div>
