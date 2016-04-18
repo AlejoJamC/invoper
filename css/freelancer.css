@@ -115,7 +115,7 @@ header .intro-text .skills {
     }
 
     header .intro-text .name {
-        font-size: 4.75em;
+        font-size: 2.75em;
     }
 
     header .intro-text .skills {
@@ -264,7 +264,7 @@ section.success a.active {
     margin-top: 15px;
     border: solid 2px #fff;
     font-size: 20px;
-    color: #fff;
+    color: #18bc9c;
     background: 0 0;
     transition: all .3s ease-in-out;
 }
@@ -273,7 +273,7 @@ section.success a.active {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #fff;
+    border: solid 2px #18bc9c;
     color: #18bc9c;
     background: #fff;
 }
@@ -456,4 +456,9 @@ footer .footer-below {
 .portfolio-modal .modal-backdrop {
     display: none;
     opacity: 0;
+}
+
+.imgresize{
+    width: 200px;
+    height: 200px;
 }
