@@ -441,55 +441,55 @@
                             <tbody>
                             <tr>
                                 <th>$Z$</th>
-                                <th>1</th>
-                                <th>-43</th>
-                                <th>-31</th>
-                                <th>-47</th>
-                                <th>-37</th>
+                                <th>48</th>
                                 <th>0</th>
+                                <th>16</th>
                                 <th>0</th>
-                                <th>0</th>
-                                <th>0</th>
+                                <th>10</th>
+                                <th>47</th>
+                                <th>47</th>
+                                <th>47</th>
+                                <th>47</th>
                                 <th>-</th>
                             </tr>
                             <tr>
                                 <th>$S_1$</th>
-                                <th>0</th>
-                                <th>0.8</th>
                                 <th>0.3</th>
-                                <th>0.7</th>
-                                <th>0.4</th>
-                                <th>1</th>
-                                <th>0</th>
-                                <th>0</th>
+                                <th>1.1</th>
                                 <th>0.6</th>
-                                <th>0.86</th>
+                                <th>1</th>
+                                <th>-0.1</th>
+                                <th>-0.2</th>
+                                <th>0.8</th>
+                                <th>-0.2</th>
+                                <th>0.9</th>
+                                <th>-</th>
                             </tr>
                             <tr>
                                 <th>$S_2$</th>
+                                <th>-0.2</th>
+                                <th>-0.1</th>
+                                <th>-0.1</th>
+                                <th>-0.2</th>
                                 <th>0</th>
+                                <th>-0.2</th>
+                                <th>0.8</th>
+                                <th>-0.2</th>
                                 <th>0.1</th>
-                                <th>0.4</th>
-                                <th>0.2</th>
-                                <th>0.1</th>
-                                <th>0</th>
-                                <th>1</th>
-                                <th>0</th>
-                                <th>0.3</th>
-                                <th>1.5</th>
+                                <th>-</th>
                             </tr>
                             <tr>
                                 <th>$S_3$</th>
-                                <th>0</th>
-                                <th>1</th>
-                                <th>1</th>
-                                <th>1</th>
-                                <th>1</th>
+                                <th>-1</th>
                                 <th>0</th>
                                 <th>0</th>
                                 <th>0</th>
+                                <th>0</th>
+                                <th>-1</th>
+                                <th>-1</th>
+                                <th>-1</th>
                                 <th>1</th>
-                                <th>1</th>
+                                <th>-</th>
                             </tr
                             </tbody>
                         </table>
